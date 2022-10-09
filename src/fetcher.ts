@@ -11,10 +11,10 @@ import { Token } from './entities/token'
 
 let TOKEN_DECIMALS_CACHE: { [chainId: number]: { [address: string]: number } } = {
   [ChainId.XINFIN]: {
-    '0x951857744785e80e2de051c32ee7b25f9c458c42': 18 // WXDC
+    '0x951857744785E80e2De051c32EE7b25f9c458C42': 18 // WXDC
   },
   [ChainId.APOTHEM]: {
-    '0xad2552941efbac1532b5c8950eccdb3ea9dfe68b': 18 // WXDC
+    '0xaD2552941efbAc1532B5C8950EcCdb3EA9DFE68b': 18 // WXDC
   }
 }
 
