@@ -1,7 +1,7 @@
 {
   "name": "xdcswap-sdk",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of XdcSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -12,7 +12,9 @@
   "keywords": [
     "xdcswap",
     "xdc",
-    "ethereum"
+    "ethereum",
+    "xinfin",
+    "apothem"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
